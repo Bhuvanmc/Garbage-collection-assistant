@@ -1,0 +1,9 @@
+OPTIMAL PATH : 0->1->0->2->9->4->5->6->7->8->14->13->11->3->10->0->
+
+Minimum Travelling Distance: 5.5 km
+
+
+
+-----Take 1 MEDIUM Vehicle-----
+
+Total Cost : 44.00Rs
